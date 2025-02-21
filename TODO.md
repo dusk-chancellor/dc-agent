@@ -1,0 +1,7 @@
+- [x] converter from infix to postfix notation
+- [x] expressions evaluator
+- [x] worker pool
+- [x] collect app + dockerize + Makefile
+- [ ] testing & debugging
+- [ ] unit tests for converter & evaluator
+- [ ]
